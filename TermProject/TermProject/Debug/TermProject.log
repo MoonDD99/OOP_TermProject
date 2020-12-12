@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\mjh99\source\repos\TermProject\TermProject\test.cpp(71,35): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\mjh99\source\repos\TermProject\TermProject\test.cpp(144,25): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\mjh99\source\repos\TermProject\TermProject\test.cpp(413,32): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  TermProject.vcxproj -> C:\Users\mjh99\source\repos\TermProject\Debug\TermProject.exe
